@@ -1,0 +1,26 @@
+{
+  "name": "PROYECTO_PRACTICAS",
+  "version": "1.0.0",
+  "description": "developed by **SergioRPR**<br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergio10RPR/Proyecto_Practicas_2s_2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergio10RPR/Proyecto_Practicas_2s_2020/issues"
+  },
+  "homepage": "https://github.com/Sergio10RPR/Proyecto_Practicas_2s_2020#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "oracledb": "^5.0.0"
+  }
+}
